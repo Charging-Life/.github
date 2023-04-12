@@ -1,13 +1,13 @@
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/90851865/231422924-fc6b49eb-0df2-4ada-a424-957a470c33cc.png" alt='프로젝트 로고' width='900px'>
+  <img src="https://user-images.githubusercontent.com/72565083/231439147-e8ade078-71cc-43d3-a4e7-91ed1991f05e.png" alt='프로젝트 로고' width='900px'>
   <br>
   <p align='right'>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCharging-Life&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   </p>
 </p>
 
-## 🦁 프로젝트 소개
+## ⚡ 프로젝트 소개
 
 <div align="center">
   <div>슬기로운 충전생활은 <b>전기차 충전소 모니터링과 충전소의 정보를 한눈에 볼 수 있는 서비스</b>입니다.</div>
@@ -117,9 +117,7 @@
 |:--:|:--:|
 |![알림화면 (web)](https://user-images.githubusercontent.com/90851865/231428348-b4e965a8-6174-4dc2-9696-fdc584c94b81.jpg)|![알림화면 (mobile)](https://user-images.githubusercontent.com/90851865/231428395-945c668f-38b2-4fd8-ba63-2f79e2eeefb6.jpg)|
 
-
-
-
+<br/>
 
 ## ✨ 주요 기능
 
@@ -131,6 +129,4 @@
 
 4. 전기차 차주 : 자주 이용하는 전기차 충전소 즐겨찾기, 다른 차주들에게 지금 충전하러 갈 충전소 알림 및 네비게이션 기능 & 충전 방해 금지법 단속 대상이 되기 전에 알림을 제공하여 단속 예방
 
-
 <br/>
-
